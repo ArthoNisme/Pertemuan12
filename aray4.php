@@ -1,6 +1,6 @@
 <?php
 
-$arrNilai = array("Rozik"=>80,"Akhsan"=>90,"Januar"=>75,"Salman"=>85);
+$arrNilai = array("Ardhan"=>90,"Akhsan"=>90,"Windy"=>95,"salsa"=>85);
 echo "Menampilkan isi Array asosiatif dengan foreach : <br>";
 foreach ($arrNilai as $nama => $nilai) {
     echo "Nilai $nama = $nilai<br>";

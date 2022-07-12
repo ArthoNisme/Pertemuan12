@@ -1,14 +1,14 @@
 <?php
 
-$arrNilai = array("Rozik"=>80,"Akhsan"=>90,"Januar"=>75,"Salman"=>85);
-echo $arrNilai['Rozik']. "<br>"; //80
+$arrNilai = array("Ardhan"=>90,"Akhsan"=>90,"Windy"=>95,"salsa"=>85);
+echo $arrNilai['Ardhan']. "<br>"; //80
 echo $arrNilai['Akhsan']. "<br><br>"; //90
 
 $arrNilai=array();
-$arrNilai['Zam'] = 70;
-$arrNilai['Arif'] = 77;
-$arrNilai['Henrik'] = 79;
-echo $arrNilai['Zam']. "<br>"; //70
-echo $arrNilai['Arif']. "<br>"; //77
+$arrNilai['Zamud'] = 50;
+$arrNilai['Arifah'] = 57;
+$arrNilai['Henrik'] = 59;
+echo $arrNilai['Zamud']. "<br>"; //70
+echo $arrNilai['Arifah']. "<br>"; //77
 
 ?>

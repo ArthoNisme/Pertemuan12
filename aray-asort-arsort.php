@@ -1,5 +1,5 @@
 <?php
-$arrNilai = array("Rozik"=>80,"Akhsan"=>90,"Januar"=>75,"Salman"=>85);
+$arrNilai = array("Ardhan"=>90,"Akhsan"=>90,"Windy"=>95,"salsa"=>85);
 echo "<b>Array sebelum Diurutkan</b>";
 echo "<pre>";
 print_r($arrNilai);

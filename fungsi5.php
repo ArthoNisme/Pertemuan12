@@ -2,11 +2,11 @@
 //PASSING BY REFERENCE
 
 function tambah_string(&$str){
-    $str = $str . ", Rizqi";
+    $str = $str . ", Ardhan";
     return $str;
 }
 
-$string = "Muhammad Khoirrur ";
+$string = "Ardhan Hanif ";
 echo "\$string = $string<br>";
 echo tambah_string($string). "<br>";
 echo "\$string = $string<br>";

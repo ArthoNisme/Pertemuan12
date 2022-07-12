@@ -1,8 +1,8 @@
 <?php 
 
-$arrBuah=array("Mangga","Apel","Pisang","Jeruk");
-echo $arrBuah[0]. "<br>"; // Mangga
-echo $arrBuah[3]. "<br><br>"; // Jeruk
+$arrBuah=array("semangka","Apel","Pisang","Nipis");
+echo $arrBuah[0]. "<br>"; // semangka
+echo $arrBuah[3]. "<br><br>"; // Nipis
 
 
 $arrWarna = array();
